@@ -1,6 +1,7 @@
-# analise-de-dados-da-participacao-do-uso-de-energias-renovaveis-no-mercado-energetico-br
-#### Aluno: Renata Moreira Farias de Macedo(https://github.com/renatamacedo)
-#### Orientador: Anderson Nascimento(https://github.com/insightds)
+# Analise_de_Dados_da_Participacao_do_Uso_de_Energias_Renovaveis_no_Mercado_Energetico
+
+#### Aluno: [Renata Moreira Farias de Macedo](https://github.com/renatamacedo)
+#### Orientador: [Anderson Nascimento](https://github.com/insightds)
 
 ---
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bimaster) como pré-requisito para conclusão de curso e obtenção de
